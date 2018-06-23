@@ -1,0 +1,22 @@
+#main {
+	width: 500px;
+	margin-left: auto ;
+	margin-right: auto ;
+
+	text-align: center;
+	font-size: 15;
+}
+
+<h1> {
+	color: rgb(0,0,50)
+	font-size: 100px;
+}
+
+<h2> {
+	width 50px;
+	margin-left: auto ;
+	margin-right: auto;
+
+	text-align: left;
+	font-size: 2;
+}
