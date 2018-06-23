@@ -1,0 +1,54 @@
+<!DOCTYPEhtml>
+<html>
+<head
+	<title> My Personal Website </title>
+	<link href="main.css" rel="stylesheet" />
+</head>
+<body>
+			
+	<header>
+		<h1> Durham House of Pets </h1>
+		<h4> Providing you with the best quality
+		<br> and most afforadable pet supplies! </br> </h4>
+	</header>
+
+
+	<aside>
+		<img id="intro-image" src="pets.png" />
+	</aside>
+
+
+	<section
+		<p>	Here at Durham House of Pets we have 
+		came from the shoes you are in now.
+		We know what it is like to want to 
+		provide your pet with top quality
+		food and supplies while also staying
+		within your budget. We strive to 
+		provide top of line products for your
+		pets at an afforadable cost. We offer
+		a great lay away plan incase you are
+		tight on money and want to pay over a 
+		period of time. We have a great staff 
+		that will do whatever it takes to help
+		you satisfy your pets needs!
+		</p>	
+	</section
+
+
+	<nav>
+		<ul>
+		<li><a href="index.html">About Us</a></li>
+		<li><a href="employees.html">Our Team</a></li>
+		<li><a href="products.html">Products</a></li>
+		<li><a href="policies.html">Policies</a></li>
+		<li><a href="contact_us.html">Contact Us</a></li>
+	</nav>
+
+
+	<footer>
+		<a href"https://www.facebook.com/Durham-House-of-Pets-1637253869663429/?modal=admin_todo_tour"><img id="footer-image" src="facebook.png" /></a>
+	</footer>
+
+	</body>
+</html>

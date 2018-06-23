@@ -1,0 +1,32 @@
+<!DOCTYPEhtml>
+	<html>
+		<head
+			<title> My Personal Website </title>
+			<link href="maincss" rel"stylesheet" />
+		</head>
+		<body>
+			<header>
+				<h1> Durham House of Pets </h1>
+				<h4> Providing you with the best quality
+				<br> and most afforadable pet supplies! </br> </h4>
+			</header>
+			<aside>
+			</aside>
+			<section
+			</section
+			<nav>
+				<ul>
+				<li><a href="index.html">About Us</a></li>
+				<li><a href="employees.html">Our Team</a></li>
+				<li><a href="products.html">Products</a></li>
+				<li><a href="policies.html">Policies</a></li>
+				<li><a href="contact_us.html">Contact Us</a></li>
+				
+				
+
+				
+			</nav>
+			<footer>
+			</footer>
+		</body>
+	</html>
